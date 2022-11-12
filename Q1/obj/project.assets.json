@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EAM\\Desktop\\เทอมแรกต้องรอด\\mdt211\\MDT211_HW3\\MDT211_HW3.csproj",
+      "projectUniqueName": "C:\\Users\\EAM\\Desktop\\เทอมแรกต้องรอด\\mdt211\\MDT211_HW3\\Q1\\MDT211_HW3.csproj",
       "projectName": "MDT211_HW3",
-      "projectPath": "C:\\Users\\EAM\\Desktop\\เทอมแรกต้องรอด\\mdt211\\MDT211_HW3\\MDT211_HW3.csproj",
+      "projectPath": "C:\\Users\\EAM\\Desktop\\เทอมแรกต้องรอด\\mdt211\\MDT211_HW3\\Q1\\MDT211_HW3.csproj",
       "packagesPath": "C:\\Users\\EAM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EAM\\Desktop\\เทอมแรกต้องรอด\\mdt211\\MDT211_HW3\\obj\\",
+      "outputPath": "C:\\Users\\EAM\\Desktop\\เทอมแรกต้องรอด\\mdt211\\MDT211_HW3\\Q1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
